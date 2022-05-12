@@ -1,9 +1,6 @@
-# Preface {.unnumbered}
+# Informacije o skripti {.unnumbered}
 
-This is a Quarto book.
+Ove beleške čine osnovu predavanja i vežbi na kursevima Sociologije politike i Uvoda u politiku.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+ Ovo je radni dokument (skripta), pa su moguće slovne, gramatičke i tehničke greške. Dokument se razvija u toku semestra i moguće su retroaktivne izmene pojedinih podnaslova.
 
-```{r}
-1 + 1
-```

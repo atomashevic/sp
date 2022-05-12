@@ -1,23 +1,27 @@
 project:
   type: book
-
+language: custom.yml
+date-format: "DD.MM.YY"
 book:
-  title: "sp"
-  author: "Jane Doe"
-  date: "5/12/2022"
+  title: "Sociologija politike - Beleške"
+  author: "Aleksandar Tomašević"
+  date: today
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - demokratije.qmd
     - references.qmd
 
 bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+   #theme: journal
+   #theme: zephyr
+   theme: united
   pdf:
     documentclass: scrreprt
 
-editor: visual
-
+citation:
+  type: book
+  container-title: "Sociologija politike - Skripta"
+  url: sp.atomasevic.com

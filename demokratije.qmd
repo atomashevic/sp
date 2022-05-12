@@ -1,0 +1,66 @@
+# Demokratije
+
+## Osnovni problem
+
+Pojam, ideje i vrednosti demokratije imaju različita značenja za građane
+različitih društava u različitim vremenskim periodima. Očigledno je da u
+određenim periodima, poput razdoblja od 1989. do 2000. godine u Istočnoj
+Evropi, građanima borba za demokratiju i demokratizaciju predstavlja
+važan i vredan cilj, dok nekada demokratija postaje istrošen politički
+pojam, udaljen od problema, interesa i potreba većeg dela građana
+modernih društava.
+
+Uprkos tome što je predstavnička demokratija kao politički sistem sve
+više kritikovana, što pokazuje i rastuće nepoverenje u političare i
+političke partije, međunarodni anketni podaci pokazuju da je na
+globalnom nivou većina građana misli da je demokratija dobar sistem
+kolektivnom upravljanja [@blais2021what]. Zbog toga, jedno od
+najvažnijih problema empirijskog istraživanja demokratije jeste upravo
+njena važnost ili irelevantnost za građane različitih društava u
+različitim istorijskim periodima.
+
+Iako postoje nebrojene definicije i tipologije demokratije, tipične za
+institucionalni ili makro nivo političke analize, naš fokus biće na
+razgraničenju ovog pojma u kontekstu njegove važnosti za građane i
+njihovu političku participaciju. Drugim rečima, fokusiraćemo se na
+načine na koji građani percipiraju demokratiju i demokratičnost
+političkih sistema u kojima žive.
+
+## Demokratija
+
+Demokratija u najširem značenju pojma povezuje koncepti vlasti sa pojmom
+naroda, pri čemu ta veza može imati različite oblike i značenja. Npr. u
+socijalističkom/komunističkom kontekstu, ta veza podrazumeva vlast
+potlačenih, ugnjetavanih klasa, dok u liberalnom kontekstu ta veza
+podrazumeva ravnopravan i jednak uticaj svakog građanina na političke
+procese jednog društva.
+
+Možemo govoriti o dva široka ideala ili modela demokratije
+[@achenDemocracyRealistsWhy2016]. **Populistički model** zasniva se na
+romantičarskoj ideji koja demokratiju shvata kao politički sistem u
+kojem narod odlučuje, a vlast predstavlja izraz narodne volje. Ovaj
+model počiva i na ideji o *narodnoj suverenosti* koja tvrdi da
+demokratska vlast izvire ili proističe iz opšte volje jednog naroda, te
+su potezi i politike te vlasti zapravo "preslikane" preferencije,
+vrednosti i ideje jednog naroda (ili većine tog istog naroda).
+
+:::{.callout-tip}
+## Suverenitet
+
+Suverenitet Suverenost predstavlja vrhovni politički autoritet. Na
+bazičnom nivou, suverenost predstavlja kontrolu nad narodom i
+geografskim prostorom.
+
+Većina modernih demokratija je zasnovana na principu individualnog
+suvereniteta (građanina) koji poverava svoj politički autoritet
+predstavničkim telima.
+:::
+
+Problem populističkog modela jeste to što pretpostavlja su demokratske
+političke procedure u potpunosti sposobne da izvrše pomenuto
+"preslikavanje". Srž te pretpostavke je i ideja da su građani podjednako
+*sposobni, zainteresovani i uključeni* u politički proces što je
+empirijski neodrživa tvrdnja. Samim tim, tokom XX veka, mnogi
+teoretičari i istraživači politike su osporavali ovu ideju.
+
+> Nedostižni ideal omnikompetentnog, suverenog građanina je podjednako loša ideja kao što bi bio pokušaj debelog muškarca da postane baletan. [@lippmann1946public]
