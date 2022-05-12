@@ -1,4 +1,4 @@
-# Informacije o skripti {.unnumbered}
+# Osnovne informacije {.unnumbered}
 
 Ove beleške čine osnovu predavanja i vežbi na kursevima Sociologije politike i Uvoda u politiku.
 

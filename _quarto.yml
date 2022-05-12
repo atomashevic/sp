@@ -3,7 +3,8 @@ project:
 language: custom.yml
 date-format: "DD.MM.YY"
 book:
-  title: "Sociologija politike - Beleške"
+  title: "Politička Analiza"
+  subtitle: "Beleške za predavanja"
   author: "Aleksandar Tomašević"
   date: today
   chapters:
@@ -12,16 +13,16 @@ book:
     - references.qmd
 
 bibliography: references.bib
-
+csl: apa.csl
 format:
   html:
-   #theme: journal
+   theme: journal
    #theme: zephyr
-   theme: united
+   #theme: united
   pdf:
     documentclass: scrreprt
 
 citation:
   type: book
-  container-title: "Sociologija politike - Skripta"
-  url: sp.atomasevic.com
+  container-title: "Politička Analiza - Skripta"
+  url: pa.atomasevic.com

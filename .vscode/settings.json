@@ -1,0 +1,15 @@
+{
+    "spellright.language": [
+        "Serbian (Latin)"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "spellright.parserByClass": {
+        "quarto": {
+            "parser": "markdown"
+        }
+    }
+}
