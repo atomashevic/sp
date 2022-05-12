@@ -9,6 +9,7 @@ book:
   date: today
   chapters:
     - index.qmd
+    - uvod.qmd
     - demokratije.qmd
     - references.qmd
 
